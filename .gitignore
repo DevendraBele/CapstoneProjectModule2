@@ -1,0 +1,19 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Maven
+*.iml
+*.idea/
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
