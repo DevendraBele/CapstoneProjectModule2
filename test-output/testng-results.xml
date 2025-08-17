@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-17T02:38:12 IST" name="Default suite" finished-at="2025-08-17T02:38:48 IST" duration-ms="35665">
+    <groups>
+    </groups>
+    <test started-at="2025-08-17T02:38:12 IST" name="Default test" finished-at="2025-08-17T02:38:48 IST" duration-ms="35665">
+      <class name="com.selenium.capstone.tests.ExistingEmployeeTestByUserRole">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.selenium.capstone.tests.ExistingEmployeeTestByUserRole@759d26fb]" started-at="2025-08-17T02:38:12 IST" name="beforeClass" finished-at="2025-08-17T02:38:22 IST" duration-ms="9414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="searchExistingEmployeeTestByUserRole()[pri:0, instance:com.selenium.capstone.tests.ExistingEmployeeTestByUserRole@759d26fb]" started-at="2025-08-17T02:38:22 IST" name="searchExistingEmployeeTestByUserRole" finished-at="2025-08-17T02:38:47 IST" duration-ms="24822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchExistingEmployeeTestByUserRole -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.selenium.capstone.tests.ExistingEmployeeTestByUserRole@759d26fb]" started-at="2025-08-17T02:38:47 IST" name="afterClass" finished-at="2025-08-17T02:38:48 IST" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.selenium.capstone.tests.ExistingEmployeeTestByUserRole -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
